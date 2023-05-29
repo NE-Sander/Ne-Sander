@@ -36,4 +36,4 @@
 #### Commits/Stats
 ### 
 ![Sander GitHub stats](https://github-readme-stats.vercel.app/api?username=ne-sander&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ne-sander&hide_progress=true)](https://github.com/ne-sander/github-readme-stats)
