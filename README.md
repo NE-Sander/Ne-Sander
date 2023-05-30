@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-sander/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ne_sander)
 [![HackrRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ne_sander)
-* Personal Discord: Sander#4082
 #
 ### 📌 Summary:
 ### ◽️ Tecnologies i'm currently studying 📚
@@ -40,4 +39,4 @@
 #### Commits/Stats (WORK IN PROGRESS)
 ### 
 ![Sander GitHub stats](https://github-readme-stats.vercel.app/api?username=ne-sander&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ne-sander&hide_progress=true)](https://github.com/ne-sander/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ne-sander&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
